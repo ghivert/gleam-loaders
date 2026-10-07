@@ -29,7 +29,7 @@
     "./logger": "./src/logger.mjs"
   },
   "dependencies": {
-    "toml": "^3.0.0"
+    "toml": "^3.0.0 || ^4.0.0 || ^5.0.0"
   },
   "peerDependencies": {
     "@chouquette/gleam": "^1.14.0",
